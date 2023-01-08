@@ -1,0 +1,15 @@
+tests/files/arima.py tests/plagiat1/arima.py
+tests/files/arima.py tests/plagiat2/arima.py
+tests/files/apply_lambda.py tests/plagiat1/apply_lambda.py
+tests/files/apply_lambda.py tests/plagiat2/apply_lambda.py
+tests/files/tft.py tests/plagiat1/tft.py
+tests/files/tft.py tests/plagiat2/tft.py
+tests/files/utils.py tests/plagiat1/utils.py
+tests/files/utils.py tests/plagiat2/utils.py
+tests/files/tsfresh.py tests/plagiat1/tsfresh.py
+tests/files/tsfresh.py tests/plagiat2/tsfresh.py
+tests/files/weasel.py tests/plagiat1/weasel.py
+tests/files/weasel.py tests/plagiat2/weasel.py
+tests/files/weasel.py tests/files/tft.py
+tests/files/weasel.py tests/files/weasel.py
+compare.py tests/files/weasel.py

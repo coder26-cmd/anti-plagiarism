@@ -1,0 +1,15 @@
+tests/files/arima.py <-> tests/plagiat1/arima.py = 0.98078
+tests/files/arima.py <-> tests/plagiat2/arima.py = 0.99318
+tests/files/apply_lambda.py <-> tests/plagiat1/apply_lambda.py = 0.48961
+tests/files/apply_lambda.py <-> tests/plagiat2/apply_lambda.py = 0.39568
+tests/files/tft.py <-> tests/plagiat1/tft.py = 0.65202
+tests/files/tft.py <-> tests/plagiat2/tft.py = 0.71869
+tests/files/utils.py <-> tests/plagiat1/utils.py = 0.99476
+tests/files/utils.py <-> tests/plagiat2/utils.py = 0.97849
+tests/files/tsfresh.py <-> tests/plagiat1/tsfresh.py = 0.99567
+tests/files/tsfresh.py <-> tests/plagiat2/tsfresh.py = 0.79913
+tests/files/weasel.py <-> tests/plagiat1/weasel.py = 0.71534
+tests/files/weasel.py <-> tests/plagiat2/weasel.py = 0.62415
+tests/files/weasel.py <-> tests/files/tft.py = 0.25133
+tests/files/weasel.py <-> tests/files/weasel.py = 1.0
+compare.py <-> tests/files/weasel.py = 0.23791
